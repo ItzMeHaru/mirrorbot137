@@ -328,7 +328,7 @@ ping - Ping the Bot
 help - All cmds with description
 ~~~
 
-## Deploy on [GitHub actions](https://github.com/rahulkhatri137/mirrorbot-workflow)
+## Deploy on [GitHub actions](https://ItzMeHaru/mirrorbot-workflow)
 * [Deploy Video Tutorial](https://youtu.be/U9uxTKsfvaE)
 
 
